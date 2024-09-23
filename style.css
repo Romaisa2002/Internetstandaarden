@@ -1,0 +1,99 @@
+body {
+  background-color: rgb(237, 220, 245);
+  padding: 2em;
+}
+
+
+a {
+  text-decoration:none
+}
+a:hover {
+    color: rgb(255, 127, 255);
+}
+
+button {
+    background-color: bisque;
+    padding: 1%;
+    background-origin: padding-box;
+    border-color: aliceblue
+}
+
+.Aflevering1 {
+  font-weight: bold;
+  font-size: larger;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Aflevering2 {
+    font-size: larger;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+nav {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 2%;
+}
+
+.duister {
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+  background-color: beige;
+  text-align: center;
+  border-width: 2%;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.hello {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+main {
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.logo {
+    width: 4em;
+    height: 4em;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 5em;
+    height: 5em;
+    left: 2em;
+    top: 2em;
+}
+.h3class{
+    
+}
+
+header {
+
+  background-color: #f6f5f5;
+  text-align: center;
+  padding-bottom: 2em;
+  padding-left: 2em;
+  padding-top: 2em;
+  font-family: sans-serif;
+  justify-content: start; 
+  display: flex;
+  flex direction: columns: ;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4em;
+}
+
+
+
+
+
+
